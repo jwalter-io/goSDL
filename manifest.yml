@@ -1,0 +1,7 @@
+--- 
+applications:
+- name: goSDL
+  memory: 512M
+  instances: 2
+  buildpacks:
+  - php_buildpack
